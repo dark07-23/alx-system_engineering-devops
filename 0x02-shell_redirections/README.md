@@ -1,1 +1,1 @@
-this readmeis about tasks that i am learning
+this readme is about my school tasks
